@@ -1,7 +1,6 @@
-# **Comprehensive Statistics Roadmap for Data Science**  
-### *Including Resources, Videos, Articles, Practice Assignments, and Evaluation Criteria*
+# ** Statistics  for Data Science**  
 
-This roadmap is designed to help learners develop a deep understanding of statistics for data science, including theoretical foundations, practical applications, and tools. The timeline assumes **10-15 hours per week** and spans **12 weeks**. Each stage includes curated resources, hands-on practice, and evaluation methods.
+
 
 ---
 
