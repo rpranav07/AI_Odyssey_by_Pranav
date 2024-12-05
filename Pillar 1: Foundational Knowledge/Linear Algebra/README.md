@@ -1,7 +1,5 @@
-# **Comprehensive Linear Algebra Roadmap for Data Science**
-### *Including Resources, Videos, Articles, Practice Assignments, and Evaluation Criteria*
+# **Linear Algebra Roadmap for Data Science**
 
-This roadmap is designed for learners to gain both theoretical understanding and practical application skills in linear algebra tailored for data science. The timeline assumes a commitment of **10-15 hours per week** and spans **12 weeks**. Each stage includes curated resources, hands-on practice, and evaluation methods.
 
 ---
 
@@ -148,4 +146,4 @@ This roadmap is designed for learners to gain both theoretical understanding and
 | 7-9      | Advanced Topics               | SVD, matrix factorizations, optimization    |
 | 10-12    | Applications to Data Science  | PCA, regression, clustering, neural networks |
 
-This roadmap provides a structured approach to mastering linear algebra with direct applications to data science.
+
